@@ -47,38 +47,3 @@
 * Thu, August 17: Project Day 1
 * Fri, August 18: Project Day 2
 
-
-# Daily schedule
-0:00 time here corresponds to the starting time of the day. This time is depending on your location is as follows:
-* (UTC +0) Morocco and Mauritania: 3:00 PM
-* (UTC +1) Algeria, Tunisia: 4:00 PM
-* (UTC +2) Libya and Sudan: 5:00 PM
-* (UTC +3) Palestine, Lebanon, Syria, Saudi Arabia, Iraq and Egypt: 6:00 PM
-* (UTC +4) UAE, Kuwait, Oman, Bahrain, Qatar: 7:00 PM
-
-
-## Python Days
-They are whole workshop days. The day in total is composed of 5 hours of tutorials including a 1 hour break in the middle. 
-First day includes a welcome video to be watched offline before joining.
-
-|    Time (Hour)   |    Lecture                            |
-|------------------|---------------------------------------|
-|    0:00-2:00   |    Tutorials   |   
-|    2:00-3:00     |    Break                  |                                      
-|    3:00-5:00     |    Tutorials        |
-
-## Neuroscience Days
-Neuroscience days are composed of lectures that are recorded to be watched offline and a live Q&A session with the instructors.
-
-|    Time (Hour)   |    Lecture                            |
-|------------------|---------------------------------------|
-|    1:00-2:00     |    Live Q&A                                |   
-
-## Linear Algebra, Calculus, Statistics Days
-These days will include a lecture to be watched offline before as well as tutorials to be conducted live. The last day contains also a live outro conclusion of the course.
-
-|    Time (Hour)   |    Lecture                            |
-|------------------|---------------------------------------|
-|    0:00-2:00   |    Tutorials   |   
-|    2:00-3:00     |    Break                  |                                      
-|    3:00-5:00     |    Tutorials        |
