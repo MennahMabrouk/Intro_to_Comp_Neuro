@@ -61,9 +61,11 @@
 
 ![Hippocampus heliopolis](https://github.com/MennahMabrouk/Intro_to_Comp_Neuro/assets/101124995/65be017f-2e52-4488-8a40-1df0375301c1)
 
-----
 | Topic | Code |
 |-------|------|
 | Our Project | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wz_K_3hBTpDPQvgGDck9ks1Xf3rjqOQB?usp=sharing) |
+
+***************************
+# Finally, Have We had fun with Neuroscience🧠🧠🧠 
 
 
