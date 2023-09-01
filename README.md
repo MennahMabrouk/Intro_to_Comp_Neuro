@@ -1,3 +1,6 @@
+
+![368663505_10013993068670858_8862232049657426882_n](https://github.com/MennahMabrouk/Intro_to_Comp_Neuro/assets/101124995/1b42ac1b-2b68-4128-a38a-9c627d3b2691)
+
 # Introduction to Computational Neuroscience
 
 **Objectives**: 
