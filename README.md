@@ -1,7 +1,7 @@
 
 ![368663505_10013993068670858_8862232049657426882_n](https://github.com/MennahMabrouk/Intro_to_Comp_Neuro/assets/101124995/1b42ac1b-2b68-4128-a38a-9c627d3b2691)
 
-# Introduction to Computational Neuroscience🧠🧠🧠
+## Introduction to Computational Neuroscience🧠🧠🧠
 
 🧬**Objectives**
 <p>
@@ -14,9 +14,9 @@
   👩‍💻   Basic Neuroscience<br>
 </p>
 
-# 🧬Course materials
+## 🧬Course materials
 
-🧠 [Welcome Video]() 🧠
+🧠 [Welcome Video]() 
 
 
 | 🧠Topic                            | 🧠Tutorial                                                                                                                                                                                                     | 🧠Video                                                                                                                                                                                                                                                                              | 🧠Slides                                                                                                                                                                                                                                                                                    |
@@ -36,7 +36,7 @@
 
 ***************
 
-# 🧬What we Tackled at August, 2023
+## 🧬What we Tackled at August, 2023
 
 #### At Week 1
 * Mon, July 31: Python Day 1
@@ -68,6 +68,6 @@
 | Our Project | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wz_K_3hBTpDPQvgGDck9ks1Xf3rjqOQB?usp=sharing) |
 
 ***************************
-# Finally, Have We had fun with Neuroscience🧠🧠🧠 
+## Finally, Have We had fun with Neuroscience🧠🧠🧠 
 
 
