@@ -1,23 +1,23 @@
 
 ![368663505_10013993068670858_8862232049657426882_n](https://github.com/MennahMabrouk/Intro_to_Comp_Neuro/assets/101124995/1b42ac1b-2b68-4128-a38a-9c627d3b2691)
 
-# Introduction to Computational Neuroscience
+# Introduction to Computational Neuroscience🧠🧠🧠
 
-**Objectives**: 
-- Introduce tools that are essential for starting work in computational neuroscience.
-- It includes pre-requisite knowledge such as
+**Objectives**🧠 
+🧠 Introduce tools that are essential for starting work in computational neuroscience.
+🧠 It includes pre-requisite knowledge such as
   -   Programming with Python
   -   Linear Algebra
   -    Calculus
   -    Statistics
   -    Basic Neuroscience
 
-# Course materials
+# Course materials🧠
 
-[Welcome Video]()
+🧠 [Welcome Video]() 🧠
 
 
-| Topic                            | Tutorial                                                                                                                                                                                                     | Video                                                                                                                                                                                                                                                                                | Slides                                                                                                                                                                                                                                                                                    |
+| Topic🧠                            | Tutorial🧠                                                                                                                                                                                                     | Video🧠                                                                                                                                                                                                                                                                                | Slides🧠                                                                                                                                                                                                                                                                                    |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Python (W1D1&2)                  | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="drawing" style="width:100px;"/>](https://github.com/arabs-in-neuro/intro_to_comp_neuro/tree/main/python_workshop) | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://www.youtube.com/watch?v=chinsa3C4d0&list=PLcDn4yh0rntsWolmOgZ_XC20zvxgqsbdo) |
 | Basics of Neurosciences 1 (W1D3) |                                                                                                                                                                                                              | [<img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="drawing" style="width:100px;"/>](https://youtu.be/BJyRA1iGQ3Y)                                                        | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/120px-Google_Drive_icon_%282020%29.svg.png?20201021201920" alt="drawing" style="width:50px;"/>](https://drive.google.com/file/d/1jBuwJXorfYVsQfMz7epQt6FmvrvA6CwD/view?usp=sharing) |
@@ -61,7 +61,7 @@
 
 ![Hippocampus heliopolis](https://github.com/MennahMabrouk/Intro_to_Comp_Neuro/assets/101124995/65be017f-2e52-4488-8a40-1df0375301c1)
 
-| Topic | Code |
+| Topic🧠 | Code🧠 |
 |-------|------|
 | Our Project | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wz_K_3hBTpDPQvgGDck9ks1Xf3rjqOQB?usp=sharing) |
 
