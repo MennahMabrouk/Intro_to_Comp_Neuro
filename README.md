@@ -3,7 +3,11 @@
 **Objectives**: 
 - Introduce tools that are essential for starting work in computational neuroscience.
 - It includes pre-requisite knowledge such as
-  -   programming with Python, linear algebra, calculus, statistics, and basic neuroscience.
+  -   Programming with Python
+  -   Linear Algebra
+  -    Calculus
+  -    Statistics
+  -    Basic Neuroscience
 
 # Course materials
 
@@ -27,9 +31,9 @@
 
 ----
 
-# Course outline
+# What we Tackled at August, 2023
 
-#### Week 1
+#### At Week 1
 * Mon, July 31: Python Day 1
 * Tue, August 1: Python Day 2
 * Wed, August 2: Basics of Neurosciences Day 1
