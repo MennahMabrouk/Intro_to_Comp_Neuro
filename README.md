@@ -3,7 +3,7 @@
 
 # Introduction to Computational Neuroscience🧠🧠🧠
 
-**Objectives**🧠 
+🧬**Objectives**
 <p>
 🧠 Introduce tools that are essential for starting work in computational neuroscience.<br>
 🧠 It includes pre-requisite knowledge such as<br>
@@ -14,7 +14,7 @@
   👩‍💻   Basic Neuroscience<br>
 </p>
 
-# Course materials🧠
+# 🧬Course materials
 
 🧠 [Welcome Video]() 🧠
 
@@ -36,7 +36,7 @@
 
 ***************
 
-# What we Tackled at August, 2023
+# 🧬What we Tackled at August, 2023
 
 #### At Week 1
 * Mon, July 31: Python Day 1
