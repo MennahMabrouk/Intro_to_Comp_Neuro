@@ -7,12 +7,12 @@
 <p>
 🧠 Introduce tools that are essential for starting work in computational neuroscience.<br>
 🧠 It includes pre-requisite knowledge such as<br>
+</p>
   -   Programming with Python
   -   Linear Algebra
   -    Calculus
   -    Statistics
   -    Basic Neuroscience
-</p>
 
 # Course materials🧠
 
