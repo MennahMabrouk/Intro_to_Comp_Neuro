@@ -67,13 +67,12 @@
 |-------|------|
 | Our Project | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wz_K_3hBTpDPQvgGDck9ks1Xf3rjqOQB?usp=sharing) |
 
-## Project Description:
 ### Objective:
 The objective of this project is to analyze neural activity data obtained from brain regions involved in visual perception tasks. The project aims to decode the neural responses to different visual stimuli and evaluate the accuracy of decoding across various regions of interest (ROIs) in the brain.
 
 ### Data Collection and Preprocessing:
-The project starts with downloading and installing necessary libraries and datasets required for analysis. This includes downloading data files (data.h5 and features.h5), ImageNet labels (imagenet_classes.txt), and installing required Python libraries (bdpy, seaborn_image, etc.).
-The neural activity data is stored in an HDF5 file (data.h5). The data includes voxel data from different brain regions, along with metadata such as data type, run number, labels, and ROI indicators.
+The project starts with downloading and installing necessary libraries and datasets required for analysis. This includes downloading data files (`data.h5` and `features.h5`), ImageNet labels (`imagenet_classes.txt`), and installing required Python libraries (`bdpy`, `seaborn_image`, etc)
+The neural activity data is stored in an HDF5 file (`data.h5`). The data includes voxel data from different brain regions, along with metadata such as data type, run number, labels, and ROI indicators.
 ### Data Extraction and Analysis:
 The project includes functions for extracting data from specific ROIs and filtering based on image types (similar, different, or imagery).
 Logistic Regression models are trained using the extracted data to decode neural responses and predict image labels.
